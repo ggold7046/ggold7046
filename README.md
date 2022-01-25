@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... REST API document writing 
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Through github
+- 📫 How to reach me ... ggold7046@gmail.com
 - 👀 Sample document page site ... https://ggold7046.stoplight.io/docs/openweathermap/YXBpOjExMTIxODY3-open-weather-map-api , https://choice-moss.cloudvent.net/#
 
 <!---
