@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggold7046
 - 👀 I’m interested in ... REST API document writing 
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Front end web development
+- 💞️ I’m looking to collaborate on ... REST API documentation
 - 📫 How to reach me ... ggold7046@gmail.com
 - 👀 Sample document page site ... https://ggold7046.stoplight.io/docs/openweathermap/YXBpOjExMTIxODY3-open-weather-map-api , https://choice-moss.cloudvent.net/#
 
