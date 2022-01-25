@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Through github
-- 👀 Sample document page site ... https://choice-moss.cloudvent.net/#
+- 👀 Sample document page site ... https://ggold7046.stoplight.io/docs/openweathermap/YXBpOjExMTIxODY3-open-weather-map-api , https://choice-moss.cloudvent.net/#
 
 <!---
 ggold7046/ggold7046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
